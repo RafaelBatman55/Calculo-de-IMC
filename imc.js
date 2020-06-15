@@ -1,8 +1,8 @@
-const name = "Rafael"
-const weight = 76
-const height = 1.87
+const name = "Rafael";
+const weight = 76;
+const height = 1.87;
 
-const imc = weight / (height * height)
+const imc = weight / (height * height);
 
 if (imc >= 30) {
     console.log('--------  CALCULATING --------')
